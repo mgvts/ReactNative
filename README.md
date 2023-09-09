@@ -1,4 +1,4 @@
-# ReacNative
+# ReactNative
 simple test for education on new technologies React Native
 
 start
