@@ -3,15 +3,28 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "expo start"
+    "startExpo": "expo start -c"
   },
   "dependencies": {
-    "expo": "^49.0.9",
-    "react-native": "0.72.4",
-    "typescript": "^5.1.3",
+    "@expo/vector-icons": "^13.0.0",
+    "@expo/webpack-config": "^19.0.0",
+    "@gluestack-ui/themed": "^0.1.33",
+    "@react-native/metro-config": "^0.72.11",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
     "@types/react": "~18.2.14",
-    "react-native-web": "~0.19.6",
+    "babel-plugin-inline-react-svg": "^2.0.2",
+    "babel-preset-expo": "^9.5.2",
+    "expo": "^49.0.9",
+    "metro-react-native-babel-preset": "^0.77.0",
     "react-dom": "18.2.0",
-    "@expo/webpack-config": "^19.0.0"
+    "react-native": "0.72.4",
+    "react-native-elements": "^3.4.3",
+    "react-native-svg": "^13.4.0",
+    "react-native-svg-transformer": "^1.1.0",
+    "react-native-web": "~0.19.6",
+    "react-router-dom": "^6.15.0",
+    "typescript": "^5.1.3"
   }
 }
