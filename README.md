@@ -6,4 +6,4 @@ on phone app `Expo Go`
 
 start proj
 - `npm install expo`
-- `npx expo start`
+- `npx expo start - c` (startExpo in [package.json](https://github.com/mgvts/ReactNative/blob/main/package.json))
